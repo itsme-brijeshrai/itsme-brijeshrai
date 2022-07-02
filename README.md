@@ -1,4 +1,4 @@
-<a href="#"><img  width="100%" height="250px"  src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/></a>
+<a href="#"><img  width="100%" height="280px"  src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/></a>
 <h1 align="center">नमस्ते (Namaste)🙏🏻, I'm Brijesh!</h1>
 <h3 align="center">I am willing to collaborate as a team player building better code.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
