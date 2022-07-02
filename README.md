@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsme-brijeshrai&label=Profile%20views&color=0e75b6&style=flat" alt="itsme-brijeshrai" /> </p>
 
-- 🌱 I’m currently learning **full stack web developer course at Masai.**
+- 🌱 I’m currently learning **java backend development course at Masai.**
 
 - 👯 I’m looking to collaborate on **Developing new and intriguing open-source projects, with the community, for the community**
 
-- 🤝 I’m looking for **full stack web developer role.**
+- 🤝 I’m looking for **java backend developer role.**
 
 - 📫 How to reach me **brijeshrai9820@outlook.com**
 
